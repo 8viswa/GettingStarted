@@ -33,3 +33,4 @@ if player == "paper":
         print("Player Wins")
     else:
         print("Computer Wins")
+print("Game Over")
